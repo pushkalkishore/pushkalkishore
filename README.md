@@ -7,23 +7,32 @@
 </p>
 </div>
 
-<br></br>
-
-<div align="center">
+<!-- <div align="center">
 
 <img  src="./dribble.gif" height="290px"/>
 
-</div>
+</div> -->
 
 <br></br>
 
-# My Stats 📈
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=pushkalkishore&show_icons=true&count_private=true&theme=dark" width="350"></a>
+</p>
+
+<p align='center'>
+  💻 My workspace<br/><br/>
+  <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/intel-core%20i3%2011th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
+</p>
+
+<!-- # My Stats 📈
 
 <table>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=pushkalkishore&theme=radical&show_icons=true"  display=block width=100% height=auto  alt="1" ></td>
              <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pushkalkishore&theme=radical&layout=compact&hide=Jupyter%20Notebook"  display=block width=200% height=200%  alt="2" ></td>
-  </tr> 
+  </tr>
 </table>
 
 # Profile Overview 👨🏻‍💻
@@ -37,5 +46,4 @@
     <td>
       <img src = "https://visitor-badge.glitch.me/badge?page_id=pushkalkishore" alt= "?" />
     </td>
-  </tr>
-<pushkalkishore
+  </tr> -->

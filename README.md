@@ -9,30 +9,26 @@
 
 <br></br>
 
-## 👨🏻‍💻 About Me:
+<div align="center">
 
-<img  src="./dribble.gif" height="290px" align="right" />
+<img  src="./dribble.gif" height="290px"/>
 
-- 🙋‍♂️ All about me is at **[My Website](https://soumya-jit.tech/)**
+</div>
 
-- 🔭 I’m currently working on `Something Intresting`.
+<br></br>
 
-- 🌱 I’m currently learning `MERN Stack`
+# My Stats 📈
 
-- 👯 I’m looking to collaborate for `Dev Projects`
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=pushkalkishore&theme=radical&show_icons=true"  display=block width=100% height=auto  alt="1" ></td>
+             <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pushkalkishore&theme=radical&layout=compact&hide=Jupyter%20Notebook"  display=block width=200% height=200%  alt="2" ></td>
+  </tr> 
+</table>
 
-- 🤔 I’m looking for help with `Competitive Programming`
-
-- 💬 Ask me about anything, Except Maths :sweat_smile:
-
-- 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned :tada:
-
-- ⚡ Fun fact: I waste most of my time playing games
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pushkalkishore)](https://github.com/anuraghazra/github-readme-stats)
+# Profile Overview 👨🏻‍💻
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pushkalkishore&theme=monokai"  display=block width=100% height=auto  alt="1" >
-
 <table>
   <tr>
     <td>
@@ -42,4 +38,4 @@
       <img src = "https://visitor-badge.glitch.me/badge?page_id=pushkalkishore" alt= "?" />
     </td>
   </tr>
-</table>
+<pushkalkishore

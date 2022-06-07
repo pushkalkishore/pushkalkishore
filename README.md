@@ -16,7 +16,7 @@
 <br></br>
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=pushkalkishore&show_icons=true&count_private=true&theme=dark" width="350"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=pushkalkishore&show_icons=true&count_private=true&theme=dark" width="550"></a>
 </p>
 
 <p align='center'>
@@ -35,7 +35,7 @@
 
 <div align="center">
 
-<h4>Profile Overview 👨🏻‍💻</h4>
+<h2>Profile Overview 👨🏻‍💻</h2>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pushkalkishore&theme=monokai"  display=block width=90% height=auto  alt="1" >
 

@@ -7,12 +7,6 @@
 </p>
 </div>
 
-<!-- <div align="center">
-
-<img  src="./dribble.gif" height="290px"/>
-
-</div> -->
-
 <br></br>
 
 <p align='center'>
@@ -41,25 +35,3 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pushkalkishore&theme=radical&layout=compact&hide=Jupyter%20Notebook"  display=block width=50% height=20%  alt="2" >
 </div>
-
-<!-- # My Stats 📈
-
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=pushkalkishore&theme=radical&show_icons=true"  display=block width=100% height=auto  alt="1" ></td>
-             <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pushkalkishore&theme=radical&layout=compact&hide=Jupyter%20Notebook"  display=block width=200% height=200%  alt="2" ></td>
-  </tr>
-</table>
-
-# Profile Overview 👨🏻‍💻
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pushkalkishore&theme=monokai"  display=block width=100% height=auto  alt="1" >
-<table>
-  <tr>
-    <td>
-      <img src = "https://gpvc.arturio.dev/pushkalkishore" alt = "?" />
-    </td>
-    <td>
-      <img src = "https://visitor-badge.glitch.me/badge?page_id=pushkalkishore" alt= "?" />
-    </td>
-  </tr> -->

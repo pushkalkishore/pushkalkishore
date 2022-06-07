@@ -26,6 +26,22 @@
   <img src="https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
 </p>
 
+<p align="center" >
+<img src = "https://gpvc.arturio.dev/pushkalkishore" alt = "?" />
+<img src = "https://visitor-badge.glitch.me/badge?page_id=pushkalkishore" alt= "?" />
+</p>
+
+<br></br>
+
+<div align="center">
+
+<h4>Profile Overview 👨🏻‍💻</h4>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pushkalkishore&theme=monokai"  display=block width=90% height=auto  alt="1" >
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pushkalkishore&theme=radical&layout=compact&hide=Jupyter%20Notebook"  display=block width=50% height=20%  alt="2" >
+</div>
+
 <!-- # My Stats 📈
 
 <table>
